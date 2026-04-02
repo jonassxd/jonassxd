@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👨‍💻 Jonas Eduardo
 
-<!--
-**jonassxd/jonassxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer | Test Automation | Backend Java
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Profissional focado em Qualidade de Software, com experiência em testes manuais, testes de API e automação.  
+Atuo criando cenários de teste, validando regras de negócio e garantindo a qualidade de aplicações.
+
+Tenho conhecimento em automação com Cypress, testes de API com Postman e desenvolvimento back-end com Java + Spring Boot.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- QA: Testes Manuais, Testes de API, Testes de Regressão  
+- Automação: Cypress  
+- API: Postman  
+- Backend: Java, Spring Boot  
+- Ferramentas: Git, GitHub, Jira  
+- Metodologias: Scrum, Kanban  
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🔹 QA API Collection
+Testes de API com Postman cobrindo cenários positivos e negativos.  
+Validação de status code, autenticação e estrutura de resposta.
+
+### 🔹 QA Automação com Cypress
+Automação de testes utilizando Cypress para validação de endpoints e fluxos.
+
+### 🔹 Sistema Backend Java
+Projeto utilizando Spring Boot com criação de APIs REST e regras de negócio.
+
+---
+
+## 📈 Objetivo
+Atuar como QA, evoluindo em automação de testes e contribuindo para a qualidade de software em ambientes reais.
+
+---
+
+## 📬 Contato
+- LinkedIn: (coloca seu link aqui)
+- GitHub: https://github.com/SEU-USUARIO
