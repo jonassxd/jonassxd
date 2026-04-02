@@ -42,5 +42,5 @@ Atuar como QA, evoluindo em automação de testes e contribuindo para a qualidad
 ---
 
 ## 📬 Contato
-- LinkedIn: (coloca seu link aqui)
-- GitHub: https://github.com/SEU-USUARIO
+- LinkedIn: https://www.linkedin.com/in/jonas-eduardo-santos-da-silva-6930a8234/
+- GitHub: https://github.com/jonassxd
