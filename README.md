@@ -5,10 +5,11 @@ QA Engineer | Test Automation | Backend Java
 ---
 
 ## 🚀 Sobre mim
-Profissional focado em Qualidade de Software, com experiência em testes manuais, testes de API e automação.  
-Atuo criando cenários de teste, validando regras de negócio e garantindo a qualidade de aplicações.
+Profissional focado em Qualidade de Software, com experiência em testes manuais, testes de API e automação.
 
-Tenho conhecimento em automação com Cypress, testes de API com Postman e desenvolvimento back-end com Java + Spring Boot.
+Atuo na criação de cenários de teste, validação de regras de negócio e garantia da qualidade de aplicações.
+
+Possuo conhecimento em automação com Cypress, testes de API com Postman e desenvolvimento back-end com Java e Spring Boot.
 
 ---
 
@@ -23,24 +24,12 @@ Tenho conhecimento em automação com Cypress, testes de API com Postman e desen
 ---
 
 ## 📂 Projetos em Destaque
-
-### 🔹 QA API Collection
-Testes de API com Postman cobrindo cenários positivos e negativos.  
-Validação de status code, autenticação e estrutura de resposta.
-
-### 🔹 QA Automação com Cypress
-Automação de testes utilizando Cypress para validação de endpoints e fluxos.
-
-### 🔹 Sistema Backend Java
-Projeto utilizando Spring Boot com criação de APIs REST e regras de negócio.
-
----
-
-## 📈 Objetivo
-Atuar como QA, evoluindo em automação de testes e contribuindo para a qualidade de software em ambientes reais.
+- QA API Collection (Postman)  
+- QA Automação com Cypress  
+- Sistema Backend com Spring Boot  
 
 ---
 
 ## 📬 Contato
-- LinkedIn: https://www.linkedin.com/in/jonas-eduardo-santos-da-silva-6930a8234/
+- LinkedIn: (https://www.linkedin.com/in/jonas-eduardo-santos-da-silva-6930a8234/)
 - GitHub: https://github.com/jonassxd
