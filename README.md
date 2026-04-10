@@ -39,7 +39,7 @@ Atualmente focado em automação com Cypress e testes de API, construindo projet
 
 ## Projetos
 
-### ⚡ [Taskly Automator](https://github.com/jonassxd/taskly-app)
+### ⚡ [Taskly Automator](https://github.com/jonassxd/taskly-app-v1)
 Sistema fullstack de gerenciamento de tarefas que construí do zero — API em Java/Spring Boot, front-end em HTML/CSS/JS e **25 testes E2E com Cypress**.
 
 O objetivo foi simples: entender o sistema completo pra testar com mais profundidade.
